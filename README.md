@@ -1,6 +1,6 @@
 # Pathfinding & Algorithm Visualizer 🚀
 
-An interactive **algorithm visualizer** built with **React.js**, designed to help students and developers understand popular **pathfinding** and **sorting algorithms**.  
+An interactive **algorithm visualizer** built with **React.js**, designed to help students and developers understand popular **OptiPath** and **sorting algorithms**.  
 It provides step-by-step animations and a clean UI to make learning algorithms easier and more engaging.
 
 ---
@@ -40,7 +40,7 @@ It provides step-by-step animations and a clean UI to make learning algorithms e
 # 1️⃣ Clone the repository
 
    ```bash
-    git clone https://github.com/anand7061/pathfinder.git
+    https://github.com/ANSH-000/OptiPath.git
     cd pathfinder
    ```
 
@@ -72,10 +72,7 @@ To redeploy after changes:
 
 
 Your app will be live at:
-👉 https://anand7061.github.io/pathfinder
-
-# 📸 Screenshots
-![Dashboard](https://github.com/anand7061/pathfinder/blob/main/Screenshot%202025-09-01%20195617.png)
+👉 https://github.com/ANSH-000/OptiPath.git
 
 
 
